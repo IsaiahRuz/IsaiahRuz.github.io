@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Isaiah Ruz"
 title_separator          : "-"
 name                     : &name "Isaiah Ruz"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,9 +24,9 @@ repository               : "IsaiahRuz/IsaiahRuz.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Isaiah Ruz"
+  pronouns         : "he/him"  
+  bio              : "M.S. in Physics looking to do a PhD in Mathematical or Theoretical Physics"
   location         : "Earth"
   employer         : 
   uri              : # URL
