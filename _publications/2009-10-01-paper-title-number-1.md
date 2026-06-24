@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "THE APPLICATION OF HIDDEN MOMENTUM AND GAUGE THEORY
+TO MAGNETIC MONOPOLE-LIKE MODELS"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2026-05-26
+excerpt: "[M.S. Thesis] We demonstrate an application of the concept of hidden momentum
+and the mathematical techniques of gauge theory to three magnetic
+monopole-like models–the Dirac monopole, the Wu-Yang fiber bundle, and
+the Banderet potential–and show that this hidden momentum cancels out
+their respective field momentums, which resolves an apparent violation of the center-of-energy theorem."
+date: 2026-05-26
+venue: 'Proquest'
+paperurl: https://login.access.library.fresnostate.edu/login?url=https://www.proquest.com/dissertations-theses/application-hidden-momentum-gauge-theory-magnetic/docview/3348155993/se-2?accountid=10349
+bibtexurl: 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<embed src="{{ site.baseurl }}/files/Thesis.pdf" width="800" height="700" type='application/pdf'>
+---

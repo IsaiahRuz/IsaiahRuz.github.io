@@ -1,14 +1,20 @@
 ---
-title: "Paper Title Number 2"
+title: "Electromagnetic Field Momentum in Theoretical Magnetic
+Monopole-like Models"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: 
+excerpt: 'We show that some standard models of magnetic charge – the Banderet potential, the Dirac string
+potential, and the Wu-Yang fiber bundle approach – carry an electromagnetic field momentum in
+the presence of an electrostatic field. This electromagnetic field momentum suggests a violation of
+the center-of-energy theorem. We show that each of these monopole models also carry a hidden
+mechanical momentum, which saves the center-of-energy theorem.'
+date: 2025-05-26
+venue: 'American Journal of Physics'
+paperurl: 'https://arxiv.org/pdf/2505.17029'
+bibtexurl: 
+---
+<embed src="{{ site.baseurl }}/files/Monopoles.pdf" width="800" height="700" type='application/pdf'>
+
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

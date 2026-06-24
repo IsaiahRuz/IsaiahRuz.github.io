@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Measuring Unruh Temperatures"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: 
+excerpt: '[Preprint] Conventional wisdom holds that no practical experimental setup will be able to measure the Unruh temperature of any realistic physical system in the foreseeable future. This conclusion is inescapable if the Unruh temperature is understood in the narrow sense of a QFT effect experienced by eternally accelerating observers. In this paper we propose that adopting a broader point of view where quantum entanglement is the fundamental physical phenomenon underlying the appearance of a temperature may lead to an actual measurement of this temperature in the laboratory. Our point of view is not new – a relationship between entanglement and entropy in particular has been suggested by several groups – but the prediction of a measurable temperature in the tens of µK appears to be new. ' 
+date: 2026-05-18
+venue: 'SSRN'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6276070'
+citation: 
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+<embed src="{{ site.baseurl }}/files/Unruh.pdf" width="800" height="700" type='application/pdf'>
+---
